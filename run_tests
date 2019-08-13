@@ -1,0 +1,22 @@
+#!/bin/bash
+echo "Test 1"
+./bsq tests/test1.txt
+echo "Test 2"
+./bsq tests/test2.txt
+echo "Test 3"
+./bsq tests/test3.txt
+echo "Test 4"
+./bsq tests/test4.txt
+echo "Test 5"
+./bsq tests/test5.txt
+echo "Test 6"
+./bsq tests/test6.txt
+echo "Test 7"
+./bsq tests/test7.txt
+echo "Test 8"
+./bsq tests/test8.txt
+echo "Test 9"
+./bsq tests/test9.txt
+echo "Test 10"
+./bsq tests/test10.txt
+echo " "

@@ -1,0 +1,12 @@
+#!/bin/bash
+mkdir tests
+./map_creator.pl 1 1 0 >tests/test1.txt
+./map_creator.pl 1 1 1 >tests/test2.txt
+./map_creator.pl 5 5 1 >tests/test3.txt
+./map_creator.pl 8 8 0 >tests/test4.txt
+./map_creator.pl 10 10 1 >tests/test5.txt
+./map_creator.pl 10 10 0 >tests/test6.txt
+./map_creator.pl 10 10 100 >tests/test7.txt
+./map_creator.pl 100 100 0 >tests/test8.txt
+./map_creator.pl 100 100 1 >tests/test9.txt
+./map_creator.pl 1000 1000 1 >tests/test10.txt
