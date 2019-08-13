@@ -46,4 +46,4 @@ test 10
 
 
 
-The program has been tested on maps of size 100,000 x 100,000.
+The program has been tested on maps of size upto 100,000 x 100,000.
