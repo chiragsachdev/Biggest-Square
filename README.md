@@ -2,7 +2,7 @@
 Find the biggest square in a given map using Dynamic Programming.
 
 
-This program was teh final project of Piscine at 42 Silicon Valley.
+This program was the final project of Piscine at 42 Silicon Valley.
 
 
 
